@@ -1,0 +1,30 @@
+C:\Users\shirley\documents\visual studio 2015\Projects\HandlerLogical2\HandlerLogical2\bin\Debug\HandlerLogical2.exe.config
+C:\Users\shirley\documents\visual studio 2015\Projects\HandlerLogical2\HandlerLogical2\bin\Debug\HandlerLogical2.exe
+C:\Users\shirley\documents\visual studio 2015\Projects\HandlerLogical2\HandlerLogical2\bin\Debug\HandlerLogical2.pdb
+C:\Users\shirley\documents\visual studio 2015\Projects\HandlerLogical2\HandlerLogical2\obj\Debug\FEPROCIC.csprojResolveAssemblyReference.cache
+C:\Users\shirley\documents\visual studio 2015\Projects\HandlerLogical2\HandlerLogical2\obj\Debug\HandlerLogical2.LinearFunction.resources
+C:\Users\shirley\documents\visual studio 2015\Projects\HandlerLogical2\HandlerLogical2\obj\Debug\HandlerLogical2.Properties.Resources.resources
+C:\Users\shirley\documents\visual studio 2015\Projects\HandlerLogical2\HandlerLogical2\obj\Debug\FEPROCIC.csproj.GenerateResource.Cache
+C:\Users\shirley\documents\visual studio 2015\Projects\HandlerLogical2\HandlerLogical2\obj\Debug\HandlerLogical2.exe
+C:\Users\shirley\documents\visual studio 2015\Projects\HandlerLogical2\HandlerLogical2\obj\Debug\HandlerLogical2.pdb
+C:\Users\shirley\Documents\Visual Studio 2015\Projects\FEPROCIC\HandlerLogical2\bin\Debug\HandlerLogical2.exe.config
+C:\Users\shirley\Documents\Visual Studio 2015\Projects\FEPROCIC\HandlerLogical2\obj\Debug\HandlerLogical2.exe
+C:\Users\shirley\Documents\Visual Studio 2015\Projects\FEPROCIC\HandlerLogical2\obj\Debug\HandlerLogical2.pdb
+C:\Users\DESENV5\Downloads\FEPROCIC-20161121T161828Z\FEPROCIC\HandlerLogical2\bin\Debug\HandlerLogical2.exe.config
+C:\Users\DESENV5\Downloads\FEPROCIC-20161121T161828Z\FEPROCIC\HandlerLogical2\obj\Debug\HandlerLogical2.exe
+C:\Users\DESENV5\Downloads\FEPROCIC-20161121T161828Z\FEPROCIC\HandlerLogical2\obj\Debug\HandlerLogical2.pdb
+C:\Users\DESENV5\Downloads\FEPROCIC-20161121T161828Z\FEPROCIC\HandlerLogical2\bin\Debug\HandlerLogical2.exe
+C:\Users\DESENV5\Downloads\FEPROCIC-20161121T161828Z\FEPROCIC\HandlerLogical2\bin\Debug\HandlerLogical2.pdb
+C:\Users\DESENV5\Downloads\FEPROCIC-20161121T161828Z\FEPROCIC\HandlerLogical2\obj\Debug\FEPROCIC.csprojResolveAssemblyReference.cache
+C:\Users\DESENV5\Downloads\FEPROCIC-20161121T161828Z\FEPROCIC\HandlerLogical2\obj\Debug\HandlerLogical2.LinearFunction.resources
+C:\Users\DESENV5\Downloads\FEPROCIC-20161121T161828Z\FEPROCIC\HandlerLogical2\obj\Debug\HandlerLogical2.Properties.Resources.resources
+C:\Users\DESENV5\Downloads\FEPROCIC-20161121T161828Z\FEPROCIC\HandlerLogical2\obj\Debug\FEPROCIC.csproj.GenerateResource.Cache
+C:\Users\Nobre\Desktop\FEPROCIC\HandlerLogical2\bin\Debug\HandlerLogical2.exe.config
+C:\Users\Nobre\Desktop\FEPROCIC\HandlerLogical2\obj\Debug\HandlerLogical2.exe
+C:\Users\Nobre\Desktop\FEPROCIC\HandlerLogical2\obj\Debug\HandlerLogical2.pdb
+C:\Users\Nobre\Desktop\FEPROCIC\HandlerLogical2\bin\Debug\HandlerLogical2.exe
+C:\Users\Nobre\Desktop\FEPROCIC\HandlerLogical2\bin\Debug\HandlerLogical2.pdb
+C:\Users\Nobre\Desktop\FEPROCIC\HandlerLogical2\obj\Debug\FEPROCIC.csprojResolveAssemblyReference.cache
+C:\Users\Nobre\Desktop\FEPROCIC\HandlerLogical2\obj\Debug\HandlerLogical2.LinearFunction.resources
+C:\Users\Nobre\Desktop\FEPROCIC\HandlerLogical2\obj\Debug\HandlerLogical2.Properties.Resources.resources
+C:\Users\Nobre\Desktop\FEPROCIC\HandlerLogical2\obj\Debug\FEPROCIC.csproj.GenerateResource.Cache

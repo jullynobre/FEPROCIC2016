@@ -1,0 +1,9 @@
+c:\users\shirley\documents\visual studio 2015\Projects\HandlerLogical2\HandlerLogical2\bin\Debug\HandlerLogical2.exe.config
+c:\users\shirley\documents\visual studio 2015\Projects\HandlerLogical2\HandlerLogical2\bin\Debug\HandlerLogical2.exe
+c:\users\shirley\documents\visual studio 2015\Projects\HandlerLogical2\HandlerLogical2\bin\Debug\HandlerLogical2.pdb
+c:\users\shirley\documents\visual studio 2015\Projects\HandlerLogical2\HandlerLogical2\obj\Debug\HandlerLogical2.csprojResolveAssemblyReference.cache
+c:\users\shirley\documents\visual studio 2015\Projects\HandlerLogical2\HandlerLogical2\obj\Debug\HandlerLogical2.LinearFunction.resources
+c:\users\shirley\documents\visual studio 2015\Projects\HandlerLogical2\HandlerLogical2\obj\Debug\HandlerLogical2.Properties.Resources.resources
+c:\users\shirley\documents\visual studio 2015\Projects\HandlerLogical2\HandlerLogical2\obj\Debug\HandlerLogical2.csproj.GenerateResource.Cache
+c:\users\shirley\documents\visual studio 2015\Projects\HandlerLogical2\HandlerLogical2\obj\Debug\HandlerLogical2.exe
+c:\users\shirley\documents\visual studio 2015\Projects\HandlerLogical2\HandlerLogical2\obj\Debug\HandlerLogical2.pdb
